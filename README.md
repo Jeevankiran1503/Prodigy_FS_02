@@ -80,6 +80,7 @@ Edit
 cd ../frontend
 npm install
 npm run dev
+```
 🔐 JWT Authentication Flow
 User logs in with credentials.
 
